@@ -1,18 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2aa82484-f23e-4915-b35a-69756ce55834" name="Changes" comment="Initial">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2aa82484-f23e-4915-b35a-69756ce55834" name="Changes" comment="second push">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter2/BlockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter2/ForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/AutoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/BoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/CharDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/CharDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/DynInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/Promote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/TreeDMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/TwoDAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter3/TwoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter4/BasicMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter4/BitLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter4/BoolLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter4/ButeUShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter4/ByteShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter4/HexByte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter4/InDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter4/Modulus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter4/MultByTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter4/OpBitEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter4/OpEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter4/Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/BreakLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/BreakLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/BreakLoop3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/BreakLoop4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/BrealErr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/Comma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/ContinueLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/FindPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/ForEach2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/ForEach3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/ForTick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/ForWar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/MissingBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/Nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/NoBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/NoChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/Return.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/SampleSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/StringSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter5/While.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter2/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter2/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter2/IfSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter2/IfSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaMentorProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaMentorProject.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FormatOnSaveOptions">
     <option name="myRunOnSave" value="true" />
@@ -46,19 +107,46 @@
     "last_opened_file_path": "C:/Users/User/IdeaProjects/JavaMentorProject",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IfSample">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Return">
+    <configuration name="BreakLoop4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakLoop4" />
       <module name="JavaMentorProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfSample" />
+    <configuration name="BrealErr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BrealErr" />
+      <module name="JavaMentorProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Continue" />
+      <module name="JavaMentorProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinueLabel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContinueLabel" />
+      <module name="JavaMentorProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Return" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Return" />
       <module name="JavaMentorProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,8 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IfSample" />
-        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.Return" />
+        <item itemvalue="Application.ContinueLabel" />
+        <item itemvalue="Application.Continue" />
+        <item itemvalue="Application.BrealErr" />
+        <item itemvalue="Application.BreakLoop4" />
       </list>
     </recent_temporary>
   </component>
@@ -80,7 +171,8 @@
       <option name="presentableId" value="Default" />
       <updated>1657488115606</updated>
       <workItem from="1657488117056" duration="949000" />
-      <workItem from="1657489118124" duration="824000" />
+      <workItem from="1657489118124" duration="21983000" />
+      <workItem from="1658067090248" duration="11091000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1657488776338</created>
@@ -89,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657488776338</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second push">
+      <created>1657490052903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657490052903</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +220,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+    <MESSAGE value="second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="second push" />
   </component>
 </project>
