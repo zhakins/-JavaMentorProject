@@ -2,37 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aa82484-f23e-4915-b35a-69756ce55834" name="Changes" comment="chapter6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/AccessTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/Box2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/CallByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/CommandLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/Overload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/OverloadCons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/OverloadCons2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/OverloadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/PassArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/PassOb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/PassObjRe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/RecTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/Recursion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/RetOb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/Stack1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/Stack2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/StaticByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/StaticDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/StringDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/StringDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/TestStack1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/TestStack2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter7/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/Box3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/Box4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/RedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/Shipment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaMentorProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaMentorProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter6/BoxDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter6/BoxDemo3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,61 +48,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/JavaMentorProject",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "actions.on.save"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/JavaMentorProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VarArgs">
-    <configuration name="CommandLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommandLine" />
-      <module name="JavaMentorProject" />
-      <option name="PROGRAM_PARAMETERS" value="this is a test 100 -1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PassArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PassArray" />
+  <component name="RunManager" selected="Application.FindAreas">
+    <configuration name="DemoBoxWeight2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoBoxWeight2" />
       <module name="JavaMentorProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringDemo2" />
+    <configuration name="DemoShipment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoShipment" />
       <module name="JavaMentorProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringDemo3" />
+    <configuration name="FindAreas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindAreas" />
       <module name="JavaMentorProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VarArgs" />
+    <configuration name="RedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RedDemo" />
+      <module name="JavaMentorProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserSuper" />
       <module name="JavaMentorProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VarArgs" />
-        <item itemvalue="Application.PassArray" />
-        <item itemvalue="Application.CommandLine" />
-        <item itemvalue="Application.StringDemo3" />
-        <item itemvalue="Application.StringDemo2" />
+        <item itemvalue="Application.FindAreas" />
+        <item itemvalue="Application.DemoShipment" />
+        <item itemvalue="Application.UserSuper" />
+        <item itemvalue="Application.DemoBoxWeight2" />
+        <item itemvalue="Application.RedDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +129,7 @@
       <workItem from="1657489118124" duration="21983000" />
       <workItem from="1658067090248" duration="24261000" />
       <workItem from="1658603688519" duration="7921000" />
+      <workItem from="1658775083463" duration="7535000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1657488776338</created>
