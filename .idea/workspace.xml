@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2aa82484-f23e-4915-b35a-69756ce55834" name="Changes" comment="chapter6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/A1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/A2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/Box3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/Box4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/RedDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter8/Shipment.java" afterDir="false" />
+    <list default="true" id="2aa82484-f23e-4915-b35a-69756ce55834" name="Changes" comment="chapter8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter9/AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter9/AskME.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter9/BB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter9/DynStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter9/FixedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter9/IFTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter9/IFTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter9/IFTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter9/IntStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter9/MyIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter9/MyIFImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter9/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Samat/javacore/Chapter9/SharedConstants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaMentorProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaMentorProject.iml" afterDir="false" />
     </list>
@@ -21,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -71,37 +77,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindAreas">
-    <configuration name="DemoBoxWeight2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoBoxWeight2" />
+  <component name="RunManager" selected="Application.DefaultMethodDemo">
+    <configuration name="AskME" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AskME" />
       <module name="JavaMentorProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoShipment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoShipment" />
+    <configuration name="DefaultMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DefaultMethodDemo" />
       <module name="JavaMentorProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindAreas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindAreas" />
+    <configuration name="IFExtend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IFExtend" />
       <module name="JavaMentorProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RedDemo" />
+    <configuration name="IFTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IFTest2" />
       <module name="JavaMentorProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UserSuper" />
+    <configuration name="IFTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IFTest3" />
       <module name="JavaMentorProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindAreas" />
-        <item itemvalue="Application.DemoShipment" />
-        <item itemvalue="Application.UserSuper" />
-        <item itemvalue="Application.DemoBoxWeight2" />
-        <item itemvalue="Application.RedDemo" />
+        <item itemvalue="Application.DefaultMethodDemo" />
+        <item itemvalue="Application.IFExtend" />
+        <item itemvalue="Application.AskME" />
+        <item itemvalue="Application.IFTest3" />
+        <item itemvalue="Application.IFTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +135,11 @@
       <workItem from="1657489118124" duration="21983000" />
       <workItem from="1658067090248" duration="24261000" />
       <workItem from="1658603688519" duration="7921000" />
-      <workItem from="1658775083463" duration="7535000" />
+      <workItem from="1658775083463" duration="8148000" />
+      <workItem from="1658843740181" duration="601000" />
+      <workItem from="1658931316613" duration="965000" />
+      <workItem from="1658932309772" duration="632000" />
+      <workItem from="1658935157585" duration="5460000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1657488776338</created>
@@ -159,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658157179364</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="chapter8">
+      <created>1658784797910</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658784797910</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +211,8 @@
     <MESSAGE value="second push" />
     <MESSAGE value="chapter2-5" />
     <MESSAGE value="chapter6" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter6" />
+    <MESSAGE value="chapter8" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter8" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaMentorProject$CommandLine.ic" NAME="CommandLine Coverage Results" MODIFIED="1658694014906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

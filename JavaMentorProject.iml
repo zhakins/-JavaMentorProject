@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/Samat/javacore/Chapter6" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/Samat/javacore/Chapter7" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/Samat/javacore/Chapter8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/Samat/javacore/Chapter9" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/com/Samat/javacore" />
     </content>
     <orderEntry type="inheritedJdk" />
